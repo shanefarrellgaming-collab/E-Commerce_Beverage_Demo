@@ -2,7 +2,6 @@
   "name": "e-commerce-beverage-demo",
   "compatibility_date": "2026-10-20",
   "assets": {
-    "directory": "./",
-    "binding": "ASSETS"
+    "directory": "./"
   }
 }
